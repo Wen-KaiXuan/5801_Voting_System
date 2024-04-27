@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"src","l":"Audit"},{"p":"src","l":"Candidate"},{"p":"src","l":"CPL"},{"p":"src","l":"DisplayResults"},{"p":"src","l":"Election"},{"p":"src","l":"Main"},{"p":"src","l":"OPL"},{"p":"src","l":"Party"},{"p":"src","l":"TestCoinToss"},{"p":"src","l":"TestCPL"},{"p":"src","l":"TestOPL"}]
